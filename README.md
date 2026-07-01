@@ -148,7 +148,3 @@ SECRET_KEY=your-secret-key
 
 ---
 
-## 🔗 相关项目
-
-- **前端**：[xwzx-news](../xwzx-news/) — Vue 3 移动端新闻应用
-- **学习参考**：[FastAPI_first](../FastAPI_first/) — FastAPI 入门教程
